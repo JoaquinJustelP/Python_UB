@@ -3,7 +3,7 @@ Bienvenido/a al repositorio del curso introductorio de Python. Este curso está 
 # Notebooks
 
 ## Día 1
-* [Introducción](
+* [Introducción](https://github.com/JoaquinJustelP/Python_UB/blob/main/Clase_I_Python.ipynb)
 
 
 
