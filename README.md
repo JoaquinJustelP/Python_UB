@@ -4,6 +4,7 @@ Bienvenido/a al repositorio del curso introductorio de Python. Este curso está 
 
 ## Día 1
 * [Introducción](https://github.com/JoaquinJustelP/Python_UB/blob/main/Clase_I_Python.ipynb)
+* [Numpy](Numpy.ipynb)
 
 
 
