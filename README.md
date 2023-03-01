@@ -8,7 +8,7 @@ Bienvenido/a al repositorio del curso introductorio de Python. Este curso está 
 
 ## Día 2
 * [Pandas](Pandas.ipynb)
-* [Visualización]
+* [Visualización](Visualizacion.ipynb)
 * [Ejemplo pandas](Pandas_snippets.ipynb)
 
 # Requerimientos
