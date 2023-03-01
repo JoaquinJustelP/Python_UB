@@ -6,7 +6,10 @@ Bienvenido/a al repositorio del curso introductorio de Python. Este curso está 
 * [Introducción](Clase_I_Python.ipynb)
 * [Numpy](Numpy.ipynb)
 
-
+## Día 2
+* [Pandas]
+* [Visualización]
+* [Ejemplo pandas]
 
 # Requerimientos
 Para ejecutar los notebooks en Google Colab, es necesario tener una cuenta de Google y una conexión a Internet. No se requiere la instalación de Python ni de ningún otro software adicional, ya que Colab proporciona una plataforma de Jupyter Notebook en línea.
