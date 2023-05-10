@@ -14,7 +14,10 @@ Bienvenido/a al repositorio del curso introductorio de Python. Este curso está 
 ## Unsupervised learning
 * [Aprendizaje no supervisado](Aprendizaje_no_supervisado__PCA.ipynb)
 * [Ejemplo PCA](wine.ipynb)
-* [Clustering]()
+* [Clustering](Clustering.ipynb)
+* [DBSCAN](DBSCAN.ipynb)
+* [Kmeans ejemplo](kmeans_example.ipynb)
+
 
 # Requerimientos
 Para ejecutar los notebooks en Google Colab, es necesario tener una cuenta de Google y una conexión a Internet. No se requiere la instalación de Python ni de ningún otro software adicional, ya que Colab proporciona una plataforma de Jupyter Notebook en línea.
