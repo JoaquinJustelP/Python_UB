@@ -12,7 +12,7 @@ Bienvenido/a al repositorio del curso introductorio de Python. Este curso está 
 * [Ejemplo pandas](Pandas_snippets.ipynb)
 
 ## Unsupervised learning
-* [Aprendizaje no supervisado]()
+* [Aprendizaje no supervisado](Aprendizaje_no_supervisado__PCA.ipynb)
 * [Ejemplo PCA](wine.ipynb)
 * [Clustering]()
 
